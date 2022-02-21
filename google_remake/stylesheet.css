@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container-1 {
+    width: 1000px;
+    margin: 0 auto;
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+.container-2 {
+    width: 980px;
+    margin: 0 auto;
+    background-color: rgb(219, 212, 212);
+}
+.search {
+    text-align: center;
+}
+.left-bar {
+    width: 1000px;
+    text-align: center;
+}
+.content {
+    width: 1000px;
+    float: left;   
+}
+.card {
+    height: 150px;
+    width: 31.3%;
+    float: left;
+    background-color: #69bdb3;
+    margin: 0 1%;
+    text-align: center;
+}
+footer {
+    width: 980px;
+    margin: 20px auto 0 auto;
+    text-align: center;
+    font-weight: lighter;
+}
+
+.clear {
+    clear: both;
+}
